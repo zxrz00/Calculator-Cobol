@@ -1,0 +1,8 @@
+#STEP 1: Save as "anything".cbl
+hello.cbl
+
+#STEP 2: Compile it
+cobc -x hello.cbl
+
+#STEP 3: Run
+./hello
